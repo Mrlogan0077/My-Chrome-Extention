@@ -7,3 +7,5 @@ async function fetchData() {
   document.getElementById("deathNew").innerHTML = record.data[0].deathNew;
 }
 fetchData();
+
+let;
